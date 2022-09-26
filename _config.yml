@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_Shufan.pdf", title: "CV"} 
   - {file: "publications.md", title: "Publications"}
-  - {url: "index.html", title: "Home"}
+  - {url: "index.html", title: "Home", icon: home}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "smao9@illinois.edu"}
   - {title: Github, icon: github, url: "https://github.com/Shufan-Mao"}
-  - {title: Lab, icon: rss, url: "http://learninglanguagelab.org"}
+  - {title: Lab, url: "http://learninglanguagelab.org"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
