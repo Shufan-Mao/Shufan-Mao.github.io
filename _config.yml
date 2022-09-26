@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "index.html", title: "Home", icon: home}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Contact:smao9@illinois.edu}
+  - {title: Contact: smao9@illinois.edu}
   - {title: Lab, url: "http://learninglanguagelab.org"}
   - {title: Github, icon: github, url: "https://github.com/Shufan-Mao"}
   
