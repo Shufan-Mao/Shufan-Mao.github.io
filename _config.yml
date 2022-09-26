@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Contant:smao9@illinois.edu,  icon: envelope, url: "http://smao9@illinois.edu"}
+  - {title: Contant:smao9@illinois.edu, url: "http://smao9@illinois.edu"}
   - {title: L&L Lab, url: "http://learninglanguagelab.org"}
   - {title: Github, icon: github, url: "https://github.com/Shufan-Mao"}
   
