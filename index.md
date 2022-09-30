@@ -6,7 +6,7 @@ title: ""
 
 I am a fourth year graduate student in the [Psychology Department](https://psychology.illinois.edu/) at the Uiniversity of Illinois Urbana-Champaign, and a member of [Learning & Language Lab](http://learninglanguagelab.org/), advised by Dr. Jon Willits. 
 
-<table border=0>
+<table border="0">
 	<tr>
 		<td width=400>
 		Before diving into the world of psychology, I had eight years of experience in mathematics: After receiving a B.S. degree in math, I continued on         studying theory and application of random graph as a Ph.D student at University of Illinois Urbana-Champaign, where I had exposures to diverse math       topics, e.g. Probability theory, Mathematical Logic, Function Analysis and basic Algebra. At the meantime, I was profoundly interested in formal         linguistics and received trainings in syntax and formal semantics. My education in mathematics and linguistics has benefitted me with a broad              background and relatively deep understanding in formal systems, alongside with intuitions to modeling cogntivie stuctures and processes using formal tools.
