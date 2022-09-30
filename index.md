@@ -12,7 +12,7 @@ I am a fourth year graduate student in the [Psychology Department](https://psych
 		Before diving into the world of psychology, I had eight years of experience in mathematics: After receiving a B.S. degree in math, I continued on         studying theory and application of random graph as a Ph.D student at University of Illinois Urbana-Champaign, where I had exposures to diverse math       topics, e.g. Probability theory, Mathematical Logic, Function Analysis and basic Algebra. At the meantime, I was profoundly interested in formal         linguistics and received trainings in syntax and formal semantics. My education in mathematics and linguistics has benefitted me with a broad              background and relatively deep understanding in formal systems, alongside with intuitions to modeling cogntivie stuctures and processes using formal tools.
 		</td>
 		<td width=200>
-			![shufan](/assets/shufan.jpeg)
+			![shufan](/assets/shufan.jpg)
 		</td>
 	</tr>
 </table>
